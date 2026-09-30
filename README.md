@@ -20,19 +20,6 @@ open-source development, and experimentation with efficient language models.
 
 ---
 
-## Open Source Contributions
-
-### Apache DataFusion
-
-**#25882 — Fix handling of scalar results from async UDFs**
-
-Fix for handling scalar results returned from asynchronous UDFs with regression
-coverage.
-
-[View PR](https://github.com/apache/datafusion/pull/25882)
-
-**Status:** Open
-
 ### Hugging Face
 
 - [UltraSparse-10M](https://huggingface.co/bala5046/UltraSparse-10M)
